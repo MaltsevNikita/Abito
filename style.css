@@ -137,8 +137,8 @@ body {
   /* border: 1px solid red; */
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
-  row-gap: 30px;
+  justify-content: flex-start;
+  gap: 30px;
 }
 
 .content-main__list-item {
